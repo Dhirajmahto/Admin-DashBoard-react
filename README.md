@@ -1,16 +1,15 @@
 <h1 align="center">React Admin Dashboard</h1>
 
-![Demo App](/public/screenshot-for-readme-1.png)
-![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/screenshot-for-readme-3.png)
 
 
-### This is a free admin dashboard ui kit built with:
+![Screenshot 1](/public/screenshot-for-readme-2.png)
+[View-App](https://680a9226a11bd562eaeb62f5--admin-dashbor.netlify.app/)
+### This is a free admin dashboard UI kit built with:
 
--   React
--   Tailwind CSS
--   Recharts
--   Framer Motion
+- React
+- Tailwind CSS
+- Recharts
+- Framer Motion
 
 It is completely responsive and can be used for any type of web application.
 
@@ -18,10 +17,3 @@ It is completely responsive and can be used for any type of web application.
 
 ```shell
 npm install
-```
-
-```shell
-npm run start
-```
-# Admin-Dasbord-react
-# Admin-DashBoard-react
